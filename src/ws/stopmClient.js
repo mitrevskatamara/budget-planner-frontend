@@ -1,7 +1,7 @@
 import SockJS from "sockjs-client";
 import { Stomp } from "@stomp/stompjs";
 
-const URL ='http://localhost:8081/ws';
+const URL ='https://budget-planner-backend-55c68a159767.herokuapp.com/ws';
 
 export const getStompClient = () => {
     const socket = new SockJS(URL);

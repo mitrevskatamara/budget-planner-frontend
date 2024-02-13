@@ -33,7 +33,7 @@ export const yearList = () => {
     )
 };
 
-export const API_BASE_URL = 'http://localhost:8081';
+export const API_BASE_URL = 'https://budget-planner-backend-55c68a159767.herokuapp.com';
 export const OAUTH2_REDIRECT_URI = 'http://localhost:3000/oauth2/redirect';
 
 export const GOOGLE_AUTH_URL = 'https://accounts.google.com/o/oauth2/v2/auth/oauthchooseaccount?scope=openid%20profile%20email&state=GqlaJFjnLI7zEKpJksutU3-k35wig7TehC7TFvv47dI.lzAB8L17ARE.LYtNdAR3RHiZCgasveIu8A&response_type=code&client_id=457967919927-h67cp3jfm2cuj03578a1vo4cd8g523nt.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Frealms%2Fbudgetplannerdev%2Fbroker%2Fgoogle%2Fendpoint&nonce=Z7dgPje5cU_fVubn7LtVSA&service=lso&o2v=2&theme=glif&flowName=GeneralOAuthFlow\n';

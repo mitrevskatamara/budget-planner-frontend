@@ -1,7 +1,7 @@
 import axios from "axios";
 
-const AUTH_URL = "http://localhost:8081/api/auth/";
-const KEYCLOAK_URL = "http://localhost:8081/api/keycloak/";
+const AUTH_URL = "https://budget-planner-backend-55c68a159767.herokuapp.com/api/auth/";
+const KEYCLOAK_URL = "https://budget-planner-backend-55c68a159767.herokuapp.com/api/keycloak/";
 
 class AuthService {
     login(username, password) {
