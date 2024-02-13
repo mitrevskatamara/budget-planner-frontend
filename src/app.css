@@ -1,0 +1,19 @@
+.custom-button {
+    background-color: white;
+    color: #6c757d;
+    border: 1px solid #6c757d;
+    &:hover {
+        background-color: #00a095;
+        border: 1px solid white;
+    }
+}
+
+.custom-button-register {
+    background-color: #00a095;
+    border: 1px solid white;
+    &:hover {
+        background-color: white;
+        border: 1px solid #6c757d;
+        color: #6c757d;
+    }
+}

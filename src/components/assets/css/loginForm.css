@@ -1,0 +1,23 @@
+.col-form {
+    width: 350px;
+    margin-top: 20px;
+}
+
+.login-button {
+    width: 100%;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: #377aef;
+}
+
+.forgot-password-link {
+    text-decoration: none;
+    justify-content: center;
+}
+
+.login-form {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #f0f0f0;
+}

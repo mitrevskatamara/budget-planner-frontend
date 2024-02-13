@@ -1,0 +1,9 @@
+.react-bootstrap-table-pagination .page-item.active .page-link {
+    background-color: white;
+    border-color: #dee2e6;
+    color: grey;
+}
+
+.react-bootstrap-table-pagination .page-link {
+    color: grey;
+}

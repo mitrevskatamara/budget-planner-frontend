@@ -1,0 +1,30 @@
+.buttons {
+    background: transparent;
+    border: 1px solid #ccc;
+    color: black;
+    font-size: 16px;
+    padding: 5px 10px;
+    width: 280px;
+    height: 45px;
+    margin-bottom: 10px;
+}
+
+.images {
+    max-width: 35px;
+    margin-right: 10px;
+}
+.buttons:hover {
+    background-color: #f0f0f0;
+}
+.centered-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 380px;
+}
+.new-account {
+    width: 350px;
+}
+.link {
+    text-decoration: none;
+}

@@ -1,0 +1,26 @@
+.converter-container {
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+    width: 930px;
+    height: 350px;
+    padding: 20px;
+}
+
+.currency-color {
+    color: darkgrey;
+}
+
+.custom-button-create {
+    background-color: #61ab7e;
+    border: 1px solid white;
+    &:hover {
+        background-color: #6bbb88;
+        border: 1px solid #61ab7e;
+        color: white;
+    }
+}

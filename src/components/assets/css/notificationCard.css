@@ -1,0 +1,10 @@
+.notification-card {
+    border: none!important;
+    background-color: #f0f0f0!important;
+    height: 67px!important;
+}
+
+.notification-card-text {
+    white-space: normal;
+    font-size: 12px;
+}

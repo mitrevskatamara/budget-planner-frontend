@@ -1,0 +1,11 @@
+.vertical-line {
+    width: 1px;
+    background-color: #000;
+    height: 100%;
+}
+.social-login-col {
+    margin-left: 200px;
+}
+.vertical-line-col {
+    width: 60px;
+}
